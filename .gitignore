@@ -1,0 +1,15 @@
+# Project exclude paths
+/.gradle/
+/innerClassesAndLambdas/task1/build/
+/innerClassesAndLambdas/task2/build/
+/innerClassesAndLambdas/task2/out/
+/innerClassesAndLambdas/task2/out/production/classes/
+/innerClassesAndLambdas/task3/build/
+/innerClassesAndLambdas/task3/out/
+/innerClassesAndLambdas/task3/out/production/classes/
+/innerClassesAndLambdas/task4/build/
+/innerClassesAndLambdas/task4/out/
+/innerClassesAndLambdas/task4/out/production/classes/
+/innerClassesAndLambdas/task5/build/
+/innerClassesAndLambdas/task5/out/
+/innerClassesAndLambdas/task5/out/production/classes/
